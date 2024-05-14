@@ -15,7 +15,7 @@ This project was my exam during my iOS course. Some of the requirments were to u
 # Application Features
 
 * API Integration: The app integrates with TheMealDB.COM.
-* Swiftdata to save and archive the recipes.
+* Swiftdata to save favorites and the archived recipes.
 * Recipe Search: Users can search for recipes based on country, category, ingredients, and text search.
 * SwipeActions on the list of recipes: Either archive or favorite recipe.
 * Every recipe have a Detailview where you will be provided with instructions and a list of ingredients.
