@@ -1,6 +1,6 @@
-# Ratatouille Recipe App - Exam Project
+# iOS Exam - Ratatouille
 
-Welcome to the Ratatouille Recipe App! This project is designed for an iOS development exam. The goal is to create an application that integrates with an external API to download and save recipe information, using Core Data for saving. The app allows users to search for recipes, save favorites, and explore a variety of culinary delights.
+This project was my exam during my iOS course. Some of the requirments were to use a spesific recipe API and the theme was Ratatouille. The app uses an API called TheMealDB.com where the user can search up recipes based on country, category, ingredients or recipe name. Get information from each recipe with instructions and ingredients and save them to a favorite list.
 
 # Exam Conditions
 
@@ -15,10 +15,10 @@ Welcome to the Ratatouille Recipe App! This project is designed for an iOS devel
 # Application Features
 
 * API Integration: The app integrates with TheMealDB.COM.
+* Swiftdata to save and archive the recipes.
 * Recipe Search: Users can search for recipes based on country, category, ingredients, and text search.
-* SwipeActions on every recipe: Either archive or favorite. Favorites will be shown in the main Tabview and Archived recipes will be moved to a list in settings.
-* You can navigate inside every recipe where instructions and a list of ingredients is shown.
-* 
+* SwipeActions on the list of recipes: Either archive or favorite recipe.
+* Every recipe have a Detailview where you will be provided with instructions and a list of ingredients.
 
 # Images
 
