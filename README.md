@@ -23,10 +23,10 @@ Welcome to the Ratatouille Recipe App! This project is designed for an iOS devel
 # Images
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/9786e185-060e-4a70-8134-673b5643a751" width="170" alt="Image 1">
-  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/23f3b186-49b6-4bb4-a495-6a158be07016" width="170" alt="Image 2">
-  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/55582ae4-eb42-4fd1-8a54-f9246df2943f" width="170" alt="Image 3">
-  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/ab80939c-290d-4c48-b0a0-b12eb7865233" width="170" alt="Image 4">
-  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/cab058e2-cd2e-4d5f-b99b-8f2aa169dfaf" width="170" alt="Image 5">
+  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/9786e185-060e-4a70-8134-673b5643a751" width="200" alt="Image 1">
+  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/23f3b186-49b6-4bb4-a495-6a158be07016" width="200" alt="Image 2">
+  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/55582ae4-eb42-4fd1-8a54-f9246df2943f" width="200" alt="Image 3">
+  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/ab80939c-290d-4c48-b0a0-b12eb7865233" width="200" alt="Image 4">
+  <img src="https://github.com/bennaro/Ratatouille/assets/94905053/cab058e2-cd2e-4d5f-b99b-8f2aa169dfaf" width="200" alt="Image 5">
 </div>
 
