@@ -1,0 +1,218 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "-" : {
+
+    },
+    "Administrere" : {
+
+    },
+    "Administrere arkiv" : {
+
+    },
+    "Aktivere mørk modus" : {
+
+    },
+    "Archive" : {
+
+    },
+    "Arkiv" : {
+
+    },
+    "Arkivert:" : {
+
+    },
+    "Arkiverte Matoppskrifter" : {
+
+    },
+    "Avbryt" : {
+
+    },
+    "Back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilbake"
+          }
+        }
+      }
+    },
+    "Dato" : {
+
+    },
+    "Favorites" : {
+
+    },
+    "Ferdig" : {
+
+    },
+    "Filter" : {
+
+    },
+    "Ingen arkiverte ingredienser" : {
+
+    },
+    "Ingen arkiverte kategorier" : {
+
+    },
+    "Ingen arkiverte landområder" : {
+
+    },
+    "Ingen arkiverte matoppskrifter" : {
+
+    },
+    "Ingen matoppskrifter" : {
+
+    },
+    "Ingen Matoppskrifter" : {
+
+    },
+    "Ingen redigerte ingredienser" : {
+
+    },
+    "Ingen Redigerte Kategorier" : {
+
+    },
+    "Ingen Redigerte Landområder" : {
+
+    },
+    "Ingrediens:" : {
+
+    },
+    "Ingredienser" : {
+
+    },
+    "Ingredienser:" : {
+
+    },
+    "Innstillinger" : {
+
+    },
+    "Kategori:" : {
+
+    },
+    "Kategorier" : {
+
+    },
+    "Lagre" : {
+
+    },
+    "Lagret:" : {
+
+    },
+    "Landområde:" : {
+
+    },
+    "Landområder" : {
+
+    },
+    "Legg til Ingrediens" : {
+
+    },
+    "Legg til Ingredienser" : {
+
+    },
+    "Legg til kategori" : {
+
+    },
+    "Legg til Katogorier" : {
+
+    },
+    "Legg til landområde" : {
+
+    },
+    "Legg til Landområde" : {
+
+    },
+    "Loading..." : {
+
+    },
+    "Matoppskrifter" : {
+
+    },
+    "Mine Ingredienser" : {
+
+    },
+    "Mine Kategorier" : {
+
+    },
+    "Mine Landområder" : {
+
+    },
+    "Mine oppskrifter" : {
+
+    },
+    "Mørk modus" : {
+
+    },
+    "Navn på ingrediens" : {
+
+    },
+    "Navn på kategori" : {
+
+    },
+    "Navn på Kategori" : {
+
+    },
+    "Navn på landområde" : {
+
+    },
+    "Ny ingrediens" : {
+
+    },
+    "Ny kategori" : {
+
+    },
+    "Nytt landområde" : {
+
+    },
+    "Opprinnelse:" : {
+
+    },
+    "Ratatouille" : {
+
+    },
+    "Redigere" : {
+
+    },
+    "Redigere ingredienser" : {
+
+    },
+    "Redigere kategorier" : {
+
+    },
+    "Redigere landområder" : {
+
+    },
+    "Sjanger:" : {
+
+    },
+    "Slik gjør du:" : {
+
+    },
+    "Søk" : {
+
+    },
+    "Søk etter oppskrifter" : {
+
+    },
+    "Søk etter oppskrifter og legg til i favoritter" : {
+
+    },
+    "Søk..." : {
+
+    },
+    "Trash" : {
+
+    }
+  },
+  "version" : "1.0"
+}
