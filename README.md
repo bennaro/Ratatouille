@@ -1,24 +1,43 @@
-# iOS Exam - Ratatouille
+# iOS Exam - Ratatouille Recipe App
 
-This project was my exam during my iOS course. Some of the requirments were to use a spesific recipe API and the theme was Ratatouille. The app uses an API called TheMealDB.com where the user can search up recipes based on country, category, ingredients or recipe name. Get information from each recipe with instructions and ingredients and save them to a favorite list.
+This app was created for my iOS course as a final exam project.
 
-# Exam Conditions
+Here's a breakdown of the app's functionalities:
 
-* Compatibility: The app must work with iPhone XR and newer models. You can use the latest Xcode 15 and compile for iOS 17.
-* Individual Project: This is a written, individual, take-home exam.
-* Code Structure: The code should be well-structured, efficient, and easy to read. It should meet all functional requirements.
-* Visual Design: The visual design should follow established design guidelines. Use Assets in Xcode to organize and optimize graphical resources like colors, icons, and images.
-* User Interface: The user interface must be in Norwegian, while the Swift code should be exclusively in English.
-* Compilation: The code must compile and run directly in the iPhone simulator.
-* Empty Database: The application must be delivered with an empty database. Users should be guided during the initial startup.
+* Theme and Data Source:
 
-# Application Features
+ - The app focuses on delicious recipes, inspired by the Disney movie Ratatouille.
+It utilizes a recipe API called TheMealDB.com to retrieve recipe information.
 
-* API Integration: The app integrates with TheMealDB.COM.
-* Swiftdata to save favorites and the archived recipes.
-* Recipe Search: Users can search for recipes based on country, category, ingredients, and text search.
-* SwipeActions on the list of recipes: Either archive or favorite recipe.
-* Every recipe have a Detailview where you will be provided with instructions and a list of ingredients.
+# Search Functionality:
+
+Users can search for recipes in several ways:
+By country of origin
+By recipe category (e.g., appetizer, main course)
+By specific ingredients
+Using a general keyword search
+
+# Favorites and Archiving:
+
+Users can swipe on recipes in the list to either:
+Save them as favorites for easy access later
+Archive them for recipes they've tried but don't necessarily want readily available
+
+# Recipe Details:
+
+Tapping on a recipe in the list takes the user to a dedicated detail view.
+This view displays:
+Step-by-step instructions for preparing the recipe
+A clear list of all required ingredients
+
+# Technical Specifications:
+
+The app is designed for iPhone XR and newer models.
+It's built using the latest Xcode 15 and coded to run on iOS 17.
+The code is written in clear and efficient Swift, with a well-organized structure.
+Visual design elements follow established iOS design guidelines, with assets managed within Xcode.
+The user interface is entirely in Norwegian, while the underlying code remains in English.
+The app compiles and runs directly in the iPhone simulator for easy testing.
 
 # Images
 
